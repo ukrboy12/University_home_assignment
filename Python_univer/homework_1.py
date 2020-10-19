@@ -1,5 +1,5 @@
 import math
-
+print("Hello")
 A = 4
 B = 3
 C = int(input())
