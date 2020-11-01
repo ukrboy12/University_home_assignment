@@ -1,4 +1,5 @@
 import math
+#todo сделать все проверки
 print("Hello")
 A = 4
 B = 3
