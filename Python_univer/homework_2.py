@@ -10,7 +10,7 @@ option = int(input("Введіть цифру одного з варіантів
 if option == 1: 
     a = int(input("Введіть значення a: "))
     if a<=0:
-        result = cos(a)*(sin(a)**2)
+        result = cos(a)*(sin(a)*2)
         print("Результат: ", result)
     elif a == 1: 
         result = cos(a)
