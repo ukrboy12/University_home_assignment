@@ -5,7 +5,6 @@ n=70
 print(); print("*"*n)
 print("Лабораторна робота №3 - Цикли")
 print("-"*n)
-   
 print("*"*n)
 
 def is_digit(string):
