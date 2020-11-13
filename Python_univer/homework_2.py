@@ -1,5 +1,7 @@
 from math import *
 from msvcrt import getch
+
+#todo infinity for for this shit
 print(""" 
     1. підрахувати значення функції y за варіантом
     2. вивести на екран результат обчислення функції y = b^3   , якщо в >0, або функції  в інших випадках.
